@@ -5,6 +5,7 @@
 ```
 report: "true"
 reporter_path: http://localhost:3017
+```
 
 add the following on the colection test tab after function setTestStatus()
 ```
